@@ -14,3 +14,5 @@ Somes image processing examples which use the
 * [Threshold an image using the Otsu's method](src/Otsu.hs) ;
 
 * [Threshold an image using the SCW method](src/SCW.hs).
+
+* [Convert between masked and unmasked images](src/Masked.hs).
